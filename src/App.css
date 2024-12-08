@@ -1,38 +1,245 @@
-.App {
+/* Общие стили для контейнера */
+
+body{
+  background-color: white;
+
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+    gap: 20px;
+    max-width: 1250px;
+    margin: 0 auto;
+    margin-top: 150px; 
+}
+
+/* Стили для отдельного элемента */
+.Item {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  text-decoration: none;
+}
+
+.Item a {
+  text-decoration: none;
+}
+
+.Item__col {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  width: 250px;
   text-align: center;
+  transition: transform 0.3s, box-shadow 0.3s;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Item__col:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+/* Стили для изображения */
+.Item__col-img {
+  width: 270px;
+  height: 370px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  object-fit: cover;
+}
+
+/* Стили для названия */
+.Item__col-name {
+  font-size: 18px;
+  color: #333;
+  font-weight: bold;
+  margin: 10px 0;
+  -webkit-line-clamp: 2; /* Ограничение текста до 2 строк */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-height: 3em; /* Высота для двух строк */
+  line-height: 1.5em; /* Высота строки */
+}
+
+.icon{
+  font-size: 24px;
+}
+
+/* Стили для цены */
+.Item__col-price {
+  font-size: 16px;
+  color: #e74c3c;
+  font-weight: bold;
+}
+
+/* Стили для описания товара */
+.Item__col-title {
+  font-size: 14px;
+  color: #555;
+  margin-top: 5px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* Ограничение текста до 2 строк */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-height: 3em; /* Высота для двух строк */
+  line-height: 1.5em; /* Высота строки */
+}
+
+/* Стили для действий */
+.Item__actions {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+}
+
+/* Стили для иконок */
+.favorites-icon {
+  cursor: pointer;
+  color: #000;
+  transition: color 0.3s;
+  bottom: 20px;
+}
+
+.favorites-icon:hover {
+  color: #e74c3c;
+}
+
+.shoping-icon {
+  cursor: pointer;
+  color: #000;
+  transition: color 0.3s;
+}
+
+.shoping-icon:hover {
+  color: #3498db;
+}
+
+/* Мобильная версия */
+@media (max-width: 768px) {
+  .Item__col {
+      width: calc(50% - 20px); /* Два элемента в ряд на экранах до 768px */
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+@media (max-width: 480px) {
+  .Item__col {
+      width: 100%; /* Один элемент в ряд на маленьких экранах */
+  }
+}
+
+
+/* Контейнер для секции "Популярные бренды" */
+.conteiner_brend {
+  text-align: center;
+  margin-top: 150px;
+}
+
+/* Заголовок для брендов */
+.title_brend {
+  font-size: 27px;
+  font-weight: 28px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+/* Контейнер для изображений брендов */
+.conteiner_brend_img {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 20px; /* Расстояние между иконками */
+  flex-wrap: wrap;
+  margin-top: 40px;
+}
+
+/* Иконки брендов */
+.icon_brend {
+  width: 130px; /* Средний размер иконки */
+  height: auto;
+  transition: transform 0.3s ease; /* Анимация при наведении */
+}
+
+/* Эффект увеличения при наведении */
+.icon_brend:hover {
+  transform: scale(1.1);
+}
+
+
+.pagination{
+  padding: 50px 0;
+}
+
+.catalog__cart{
+  display: flex;
+  gap: 4px;
+}
+
+.catalog__minus{
+  background-color: #8981fe;
+  border: none;
+  border-radius:2px;
+  color: black;
+  width: 25px;
+  height: 25px;
+  font-size: 17px;
+  font-weight: 500;
+}
+.catalog__plus{
+  background-color: #8981fe;
+  border: none;
+  border-radius:2px;
+  color: black;
+  width: 25px;
+  height: 25px;
+  font-size: 17px;
+  font-weight: 500;
+}
+.catalog__input{
+  width: 22px;
+  display: flex;
+  text-align: center;
+  border: none;
+}
+
+.containerFilter{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  gap: 5px;
+  margin: 0 auto;
+  font-size: 19px;
+  font-weight: 400;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 70px;
+} 
+
+.filterPrice{
+  border: none;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 2px;
+}
+
+.row{
   display: flex;
   flex-direction: column;
+}
+
+.notElements{
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-top: 500px;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+.cart__empty {
+  text-align: center;    font-size: 18px;    color: #555;    margin-top: 20px;    padding-top: 80px;}
+.cart__title{
+  padding-top: 10px;    padding-right: 12px;}
+.cart__text{
+  padding-top: 20px;    color: black;    font-size: 30px;}

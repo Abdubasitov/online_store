@@ -1,0 +1,83 @@
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    margin-top: 30px;
+  }
+
+footer {
+  background-color: #f5f5f5;
+padding-top: 30px;
+  }
+
+  .title{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-right: 105px;
+    margin-left: 140px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .footer-section_contact {
+    flex: 1;
+    margin: 10px;
+  }
+
+    .footer-section_about{
+    flex: 1;
+    margin: 10px;
+    margin-right: 300px;
+  }
+  
+  
+  .footer-section h3 {
+    font-size: 19px;
+    margin-bottom: 10px;
+  }
+  
+  .footer-section p,
+  .footer-section a {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #bbb;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    border-top: 1px solid #444;
+    padding-top: 10px;
+  }
+  
+  .footer-bottom p {
+    font-size: 14px;
+    color: #bbb;
+  }
+  
+  /* Социальные иконки */
+  .social-icons {
+    display: flex;
+    gap: 15px;
+    margin-top: 10px;
+  }
+  
+  .social-icon {
+    color: #bbb;
+    font-size: 24px;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icon:hover {
+    color: #fff;
+  }
+  

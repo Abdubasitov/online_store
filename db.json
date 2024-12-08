@@ -1,0 +1,1631 @@
+{
+  "products": [
+    {
+      "first": [
+        {
+          "id": 38,
+          "name": "Braun Погружной блендер",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7027036246.jpg",
+          "title": "1013, черный",
+          "price": 1700
+        },
+        {
+          "id": 39,
+          "name": "Bosch Диск пильный",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-t/wc1000/6949014185.jpg",
+          "title": "210 x 1.8 x 30; 64 зуб.",
+          "price": 1200
+        },
+        {
+          "id": 40,
+          "name": "Cordiant Snow Cross",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7042982745.jpg",
+          "title": "Шины зимние 215/60 R16 95T",
+          "price": 5800
+        },
+        {
+          "id": 41,
+          "name": "Dapperman",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7161952784.jpg",
+          "title": "Брюки утепленные",
+          "price": 2300
+        }
+      ],
+      "second": [
+        {
+          "id": 42,
+          "name": "Фонарик аккумуляторный ручной",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-m/wc1000/6922944274.jpg",
+          "title": "фонарь светодиодный тактический мощный автомобильный туристический для кемпинга",
+          "price": 1300
+        },
+        {
+          "id": 43,
+          "name": "Термоноски Empire Socks",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/6923001621.jpg",
+          "title": "12 Пар",
+          "price": 1000
+        },
+        {
+          "id": 44,
+          "name": "Кримпер пресс клещи",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-d/wc1000/6920699233.jpg",
+          "title": "для обжима НШВИ + набор наконечников 1250 шт. HSC8 6-4A",
+          "price": 1003
+        },
+        {
+          "id": 45,
+          "name": "Кислородный отбеливатель",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7131959319.jpg",
+          "title": "пятновыводитель для дома (3 шт)",
+          "price": 560
+        },
+        {
+          "id": 38,
+          "name": "Braun Погружной блендер",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7027036246.jpg",
+          "title": "1013, черный",
+          "price": 1700
+        },
+        {
+          "id": 39,
+          "name": "Bosch Диск пильный",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-t/wc1000/6949014185.jpg",
+          "title": "210 x 1.8 x 30; 64 зуб.",
+          "price": 1200
+        },
+        {
+          "id": 40,
+          "name": "Cordiant Snow Cross",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7042982745.jpg",
+          "title": "Шины зимние 215/60 R16 95T",
+          "price": 5800
+        },
+        {
+          "id": 41,
+          "name": "Dapperman",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7161952784.jpg",
+          "title": "Брюки утепленные",
+          "price": 2300
+        },
+        {
+          "id": 46,
+          "name": "Сухой корм",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-u/wc1000/6913300374.jpg",
+          "title": "Для собак крупных пород Мираторг Extra Meat с говядиной, 10 кг",
+          "price": 2130
+        },
+        {
+          "id": 47,
+          "name": "Навесная сушилка",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7098497364.jpg",
+          "title": "Навесная сушилка для обуви и белья на батарею. Компактные крючки на радиатор для сушки одежды, обуви, вешалка для полотенец и др. вещей. Комплект 4 шт., размер 13 см х 2 см х 13 см.",
+          "price": 220
+        },
+        {
+          "id": 48,
+          "name": "Кабель",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7075459060.jpg",
+          "title": "Кабель usb type c",
+          "price": 225
+        },
+        {
+          "id": 49,
+          "name": "Электрическая зубная щетка",
+          "img": "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7125100297.jpg",
+          "title": "Оригинальная электрическая зубная щетка Oral-B Pro Series 3, набор из 2 штук, с Датчиком Давления на десны, Черная и Белая",
+          "price": 6124
+        }
+      ]
+    }
+  ],
+  "users": [
+
+  ],
+  "Beatiful": [
+    {
+      "id": 31,
+      "name": "Набор для маникюра",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7073887286.jpg",
+      "title": "А также педикюра с лампой и аппаратом",
+      "price": 5000
+    },
+    {
+      "id": 32,
+      "name": "BHAB Slowchaga Essential Cleansing Balm",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7114983930.jpg",
+      "title": "Бихэб Гидрофильный бальзам-щербет с экстрактом гриба чаги, 45мл, Южная Корея",
+      "price": 3000
+    },
+    {
+      "id": 33,
+      "name": "НАСТОЯЩИЙ ДЕТСКИЙ КРЕМ",
+      "img": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6831458247.jpg",
+      "title": "от Аванты, 4 штуки по 46 мл",
+      "price": 500
+    },
+    {
+      "id": 34,
+      "name": "Удобная и жаропрочная стеклянная кастрюля",
+      "img": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6624910514.jpg",
+      "title": "Удобная и жаропрочная стеклянная кастрюля",
+      "price": 3000
+    },
+    {
+      "id": 35,
+      "name": "Крем для депиляции DETVFO",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7021604354.jpg",
+      "title": "Спрей для удаления волос, быстро и безболезненно / Альтернатива: воск для депиляции, шугаринг",
+      "price": 2500
+    },
+    {
+      "id": 36,
+      "name": "EpilProfi Крем воск",
+      "img": "https://ir.ozone.ru/s3/multimedia-9/wc1000/6731582301.jpg",
+      "title": "от трещин для очень сухой кожи с мочевиной, увлажняющий, 100 мл",
+      "price": 2800
+    },
+    {
+      "id": 37,
+      "name": "Крем для век 7DAYS",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7071943848.jpg",
+      "title": "антивозрастной от морщин MY BEAUTY WEEK 20 ML",
+      "price": 500
+    },
+    {
+      "id": 38,
+      "name": "Перкуссионный массажер для тела",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7082516289.jpg",
+      "title": "массажный пистолет Beoka TiPRO Max, 8 насадок, кейс в комплекте",
+      "price": 10500
+    },
+    {
+      "id": 39,
+      "name": "Cosmokey Tricapil 5%, 50 мл",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-7/wc1000/7212827239.jpg",
+      "title": "Лосьон для роста волос и от выпадения с пептидами",
+      "price": 900
+    },
+    {
+      "id": 40,
+      "name": "Gillette Fusion5 ProGlide",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7154330888.jpg",
+      "title": "Мужская Бритва, 5 кассет, с 5 лезвиями, с углеродным покрытием, с технологией FlexBall, с триммером",
+      "price": 1500
+    },
+    {
+      "id": 41,
+      "name": "Большой набор для татуировок с беспроводной машинкой",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7189330916.jpg",
+      "title": "Большой набор для татуировок с беспроводной машинкой",
+      "price": 5000
+    },
+    {
+      "id": 42,
+      "name": "Пилка для пяток мощная",
+      "img": "https://ir.ozone.ru/s3/multimedia-j/wc1000/6886786123.jpg",
+      "title": " 3-мя насадками, Аппарат для педикюра, Пемза для ног",
+      "price": 1500
+    },
+    {
+      "id": 43,
+      "name": "Дарсонваль аппарат",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-t/wc1000/7190099921.jpg",
+      "title": "массажный пистолет Beoka TiPRO Max, 8 насадок, кейс в комплекте",
+      "price": 1600
+    },
+    {
+      "id": 44,
+      "name": "Iluminage Домашний безлимитный ",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7127727054.jpg",
+      "title": "технологией элос и функцией омоложения Precise Touch Pro",
+      "price": 19500
+    },
+    {
+      "id": 45,
+      "name": "Фотоэпилятор лазерный BAUM ZINDECH S700 домашний",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7038450499.jpg",
+      "title": "массажный пистолет Beoka TiPRO Max, 8 насадок, кейс в комплекте",
+      "price": 13500
+    },
+    {
+      "id": 46,
+      "name": "Estée Lauder Мультифункциональная восстанавливающая сыворотка",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7183457604.jpg",
+      "title": "Advanced Night Repair Synchronized Multi-Recovery Complex, 50 мл",
+      "price": 7200
+    },
+    {
+      "id": 47,
+      "name": "SmoothSkin Домашний фотоэпилятор IPL",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7127736139.jpg",
+      "title": "с насадкой для малых зон Pure Mini/ безлимитный",
+      "price": 25000
+    },
+    {
+      "id": 48,
+      "name": "Массажный матрас ",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7149321938.jpg",
+      "title": "массажер для тела",
+      "price": 7700
+    },
+    {
+      "id": 49,
+      "name": "Массажер массажная накидка Шиацу для всего тела",
+      "img": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6895182107.jpg",
+      "title": "вибромассажер с подогревом для тела OKDOC",
+      "price": 6300
+    },
+    {
+      "id": 50,
+      "name": "MYTREX, Аппарат для лифтинга лица",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7011168672.jpg",
+      "title": "тела и ухода за волосами PROVE",
+      "price": 50000
+    }
+  ],
+  "Toys": [
+    {
+      "id": 51,
+      "name": "Бизиборд домик KimToys",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-q/wc1000/7118342198.jpg",
+      "title": "развивающий бизидом для мальчиков и девочек",
+      "price": 4500
+    },
+    {
+      "id": 52,
+      "name": "Боксеры роботы на сенсорном управлении",
+      "img": "https://ir.ozone.ru/s3/multimedia-8/wc1000/6495302084.jpg",
+      "title": "Настольная игра Боксерский матч для мальчиков и девочек Интерактивная игра для детей и взрослых Pelican Happy Toys",
+      "price": 7600
+    },
+    {
+      "id": 53,
+      "name": "Головной убор для взрослых Железного человека 1:1 ",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7025674568.jpg",
+      "title": "Коллекционный носимый световой шлем / COS Jarvis",
+      "price": 54000
+    },
+    {
+      "id": 54,
+      "name": "Головной убор карнавальный",
+      "img": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6609886312.jpg",
+      "title": "Тип Головной убор карнавальный Вид аксессуаров для праздника Тиары и ободки",
+      "price": 11700
+    },
+    {
+      "id": 55,
+      "name": "Светящаяся карнавальная маска",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7040188819.jpg",
+      "title": "киберпанковского робота",
+      "price": 13500
+    },
+    {
+      "id": 56,
+      "name": "Игровой автомат",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7106878179.jpg",
+      "title": "Хватайка с игрушками розовая",
+      "price": 4500
+    },
+    {
+      "id": 57,
+      "name": "Интерактивная игрушка",
+      "img": "https://ir.ozone.ru/s3/multimedia-n/wc1000/6853664507.jpg",
+      "title": "трек с машинками для мальчиков и девочек, гоночный автотрек для развития мелкой моторики, логики и координации",
+      "price": 3500
+    },
+    {
+      "id": 58,
+      "name": "Конструктор LEGO Ninjago",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7054810314.jpg",
+      "title": "Первородный дракон огня, 1716 деталей, возраст от 12 лет, 71822",
+      "price": 14426
+    },
+    {
+      "id": 59,
+      "name": "Кухня детская игровая с водой, светом, звуком и набором посуды ",
+      "img": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6644765164.jpg",
+      "title": " кухня детская деревянная большая в подарок для девочки",
+      "price": 11426
+    },
+    {
+      "id": 60,
+      "name": "Конструктор Эйфелева башня, 10001 деталь",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7120886087.jpg",
+      "title": "совместим с другими брендами, коллекционный набор, большой конструктор",
+      "price": 13000
+    },
+    {
+      "id": 61,
+      "name": "Фигурка коллекционная Hot Toys Spider-Man Integrated Suit -NWH 1:6",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7203037135.jpg",
+      "title": "Фигурка коллекционная Hot Toys Spider-Man Integrated Suit -NWH 1:6",
+      "price": 57000
+    },
+    {
+      "id": 62,
+      "name": "Коляска для кукол люлька с сумкой",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7050813696.jpg",
+      "title": "DeCuevas Toys, высота ручки 81 см, серия Верона",
+      "price": 12026
+    },
+    {
+      "id": 63,
+      "name": "Радиоуправляемый экскаватор Hui Na TOYS 1:14 2.4G - HN1593",
+      "img": "https://ir.ozone.ru/s3/multimedia-a/wc1000/6841932274.jpg",
+      "title": "Радиоуправляемый экскаватор Hui Na TOYS 1:14 2.4G - HN1593",
+      "price": 13226
+    },
+    {
+      "id": 64,
+      "name": "Радиоуправляемая машина краулер Huang Bo 4WD RTR масштаб 1:10",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7112787592.jpg",
+      "title": "2.4G Bronco Yellow - HB-R1001",
+      "price": 20000
+    },
+    {
+      "id": 65,
+      "name": "Железная дорога с электропоездом и аксессуарами",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7185714111.jpg",
+      "title": "деревянный городок Гудок Goodok 1TOY Космопорт, игровой набор, для мальчиков и девочек, 89 деталей",
+      "price": 18000
+    },
+    {
+      "id": 66,
+      "name": "Радиоуправляемый экскаватор белый HUI NA TOYS масштаб 1:14",
+      "img": "https://ir.ozone.ru/s3/multimedia-k/wc1000/6286691384.jpg",
+      "title": "2.4G - HN1594-WHITE",
+      "price": 21054
+    },
+    {
+      "id": 67,
+      "name": "Фигурка коллекционная Hot Toys War Machine ",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7203134278.jpg",
+      "title": "Iron Man 2 1:6",
+      "price": 73654
+    },
+    {
+      "id": 68,
+      "name": "Конструктор Креатор Лайнер Титаник для взрослых",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7150323183.jpg",
+      "title": "(совместим с лего Creator 10294) 7zToys",
+      "price": 12568
+    },
+    {
+      "id": 69,
+      "name": "Конструктор Звездные Войны Сокол Тысячелетия, 8445 деталей",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7151475420.jpg",
+      "title": "(Star Wars, конструктор для ребенка, совместим с другими брендами)",
+      "price": 13386
+    },
+    {
+      "id": 70,
+      "name": "Майлз Моралес фигурка 29 см Человек-Паук",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-p/wc1000/7151392861.jpg",
+      "title": "Spider-Man Miles Morales",
+      "price": 57462
+    }
+  ],
+  "Clothes": [
+    {
+      "id": 71,
+      "name": "Рубашка E. Clothes",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7106157132.jpg",
+      "title": "Материал Хлопок Состав материала Хлопок - 100% Коллекция Базовая коллекция Стиль Пляжный",
+      "price": 3000
+    },
+    {
+      "id": 72,
+      "name": "Рубашка KOSTTER",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/6928357300.jpg",
+      "title": "Материал Хлопок Состав материала Хлопок - 95%, лайкра - 5% Коллекция Базовая коллекция Рост 170-176 Стиль Офисный/школьный",
+      "price": 3300
+    },
+    {
+      "id": 73,
+      "name": "Кроссовки Nike Voodoo",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7068738889.jpg",
+      "title": "Серия в одежде и обуви Voodoo Материал Текстиль Материал стельки Текстиль Материал подошвы обуви Вулканизированная резинаПолнота Fй",
+      "price": 19000
+    },
+    {
+      "id": 74,
+      "name": "Кроссовки Nike Air Force 1",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-5/wc1000/7117141577.jpg",
+      "title": "Серия в одежде и обуви Air Force 1 Материал стельки Полиэстер Материал подошвы обуви EVA Спортивное назначение Альпинизм, Бег Сезон На любой сезон",
+      "price": 16000
+    },
+    {
+      "id": 75,
+      "name": "Кроссовки Nike",
+      "img": "https://ir.ozone.ru/s3/multimedia-f/wc1000/6474629307.jpg",
+      "title": "Материал Breathable Материал стельки Текстиль Материал подошвы обуви Резина Спортивное назначение Баскетбол, Волейбол, Бег Сезон На любой сезон",
+      "price": 29000
+    },
+    {
+      "id": 76,
+      "name": "Бомбер NOELE BOUTIQUE",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7130412051.jpg",
+      "title": "Бомбер NOELE BOUTIQUE",
+      "price": 19000
+    },
+    {
+      "id": 77,
+      "name": "Пуховик PUMA Style Hooded Down Jacket",
+      "img": "https://ir.ozone.ru/s3/multimedia-m/wc1000/6782045194.jpg",
+      "title": "Пуховик PUMA Style Hooded Down Jacket",
+      "price": 20000
+    },
+    {
+      "id": 78,
+      "name": "Куртка Nike M Nsw Tf Rpl Legacy Hd Jkt 2",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7094566307.jpg",
+      "title": "Куртка Nike M Nsw Tf Rpl Legacy Hd Jkt 2",
+      "price": 15000
+    },
+    {
+      "id": 79,
+      "name": "Кроссовки Nike",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-5/wc1000/7123378109.jpg",
+      "title": "Материал Breathable Материал стельки Текстиль Материал подошвы обуви Резина Спортивное назначение Баскетбол, Волейбол, Бег Сезон На любой сезон",
+      "price": 29000
+    },
+    {
+      "id": 80,
+      "name": "Легинсы",
+      "img": "https://ir.ozone.ru/s3/multimedia-f/wc1000/6474629307.jpg",
+      "title": "",
+      "price": 4000
+    },
+    {
+      "id": 81,
+      "name": "Джемпер Baldinini Trend",
+      "img": "https://ir.ozone.ru/s3/multimedia-k/wc1000/6858284480.jpg",
+      "title": "Джемпер Baldinini Trend",
+      "price": 14000
+    },
+    {
+      "id": 82,
+      "name": "Куртка",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7204914322.jpg",
+      "title": "Куртка",
+      "price": 30000
+    },
+    {
+      "id": 83,
+      "name": "Пуховик",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-s/wc1000/7185966076.jpg",
+      "title": "Пуховик",
+      "price": 29000
+    },
+    {
+      "id": 84,
+      "name": "Юбка-шорты Patrizia Pepe",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-9/wc1000/7156360329.jpg",
+      "title": "Материал Breathable Материал стельки Текстиль Материал подошвы обуви Резина Спортивное назначение Баскетбол, Волейбол, Бег Сезон На любой сезон",
+      "price": 15000
+    },
+    {
+      "id": 86,
+      "name": "Кроссовки Nike Осень-зима",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7208508438.jpg",
+      "title": "Кроссовки Nike Осень-зима",
+      "price": 4500
+    },
+    {
+      "id": 87,
+      "name": "Кроссовки Nike Nike",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7200840323.jpg",
+      "title": "Кроссовки Nike Nike",
+      "price": 29000
+    },
+    {
+      "id": 88,
+      "name": "Кроссовки Nike",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-7/wc1000/7211469247.jpg",
+      "title": "Кроссовки Nike",
+      "price": 2200
+    },
+    {
+      "id": 89,
+      "name": "Кроссовки Travis Scott x Air Jordan",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7199214378.jpg",
+      "title": "Кроссовки Travis Scott x Air Jordan",
+      "price": 6000
+    },
+    {
+      "id": 90,
+      "name": "Кроссовки Nike Хэллоуин",
+      "img": "https://ir.ozone.ru/s3/multimedia-n/wc1000/6892628891.jpg",
+      "title": "Кроссовки Nike Хэллоуин",
+      "price": 3400
+    }
+  ],
+  "Gadgets": [
+    {
+      "id": 1,
+      "name": "Apple Смартфон iPhone 15",
+      "img": "https://ir.ozone.ru/s3/video-36/01HS11MRAWAD4WTXF3XWGV15F1/cover/wc1000/cover.jpg",
+      "title": "Dual SIM 6/128 ГБ, желтый",
+      "price": 73500
+    },
+    {
+      "id": 2,
+      "name": "Apple Смартфон iPhone 15 pro",
+      "img": "https://ir.ozone.ru/s3/multimedia-u/wc1000/6877397322.jpg",
+      "title": "Dual SIM 6/256 ГБ, синий",
+      "price": 81526
+    },
+    {
+      "id": 3,
+      "name": "Apple Смартфон iPhone 13",
+      "img": "https://ir.ozone.ru/s3/multimedia-e/wc1000/6103351550.jpg",
+      "title": "4/128 ГБ, белый",
+      "price": 58005
+    },
+    {
+      "id": 4,
+      "name": " Samsung Смартфон Galaxy S24 Ultra",
+      "img": "https://ir.ozone.ru/s3/multimedia-5/wc1000/6903721625.jpg",
+      "title": "12/512 ГБ, черный",
+      "price": 106996
+    },
+    {
+      "id": 5,
+      "name": "Galaxy S24",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/6922372858.jpg",
+      "title": "8/128 ГБ, серый",
+      "price": 64000
+    },
+    {
+      "id": 6,
+      "name": "Apple Смартфон iPhone 12",
+      "img": "https://ir.ozone.ru/s3/multimedia-5/wc1000/6477834233.jpg",
+      "title": "4/256 ГБ, черный",
+      "price": 32000
+    },
+    {
+      "id": 7,
+      "name": "Apple Смартфон iPhone 11",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7134623686.jpg",
+      "title": "Global 4/64 ГБ, фиолетовый",
+      "price": 22000
+    },
+    {
+      "id": 8,
+      "name": "Apple Смартфон iPhone 13",
+      "img": "https://ir.ozone.ru/s3/multimedia-t/wc1000/6347880593.jpg",
+      "title": "4/128 ГБ, синий",
+      "price": 53500
+    },
+    {
+      "id": 9,
+      "name": "Xiaomi Смартфон Redmi A3 Global",
+      "img": "https://ir.ozone.ru/s3/video-37/01HS11F5068JB2XHBKNAV1VEEF/cover/wc1000/cover.jpg",
+      "title": "4/128 ГБ, голубой",
+      "price": 5334
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi Смартфон Redmi 14C",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-t/wc1000/7159725305.jpg",
+      "title": "8/256 ГБ, черный",
+      "price": 9300
+    },
+    {
+      "id": 11,
+      "name": "Xiaomi Смартфон Redmi A3 Global 4",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/6926404896.jpg",
+      "title": "4/128 ГБ, черный",
+      "price": 5745
+    },
+    {
+      "id": 12,
+      "name": "Xiaomi Смартфон Redmi Note 13 ",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7192127266.jpg",
+      "title": " + Наушники Redmi Buds 4 Active Black 6/128 ГБ, черный",
+      "price": 11000
+    },
+    {
+      "id": 13,
+      "name": "Poco Смартфон POCO C61",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-x/wc1000/7192139061.jpg",
+      "title": "4/128 ГБ, черный",
+      "price": 6800
+    },
+    {
+      "id": 14,
+      "name": "Poco Смартфон C75",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7175023876.jpg",
+      "title": "8/256 ГБ, золотой",
+      "price": 10500
+    },
+    {
+      "id": 15,
+      "name": "Poco Смартфон F6 pro",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7052279340.jpg",
+      "title": "12/512 ГБ, белый",
+      "price": 40000
+    },
+    {
+      "id": 16,
+      "name": "Poco Смартфон POCO",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7160253484.jpg",
+      "title": "C61 3/64 ГБ, зеленый",
+      "price": 4500
+    },
+    {
+      "id": 17,
+      "name": "realme Смартфон realme 13+",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7154103807.jpg",
+      "title": "Ростест (EAC) 8/256 ГБ, бронза",
+      "price": 18000
+    },
+    {
+      "id": 18,
+      "name": "realme Смартфон 12",
+      "img": "https://ir.ozone.ru/s3/video-53/01J5ZED16KEPAG7VTDGVN7F9Y6/cover/wc1000/cover.jpg",
+      "title": "Ростест (EAC) 8/256 ГБ, зеленый",
+      "price": 13500
+    },
+    {
+      "id": 19,
+      "name": "realme Смартфон GT 6T",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7181709084.jpg",
+      "title": "12/256GB Razor Green 12/256 ГБ, зеленый",
+      "price": 39000
+    },
+    {
+      "id": 20,
+      "name": "realme Смартфон 12 Pro+",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7184522994.jpg",
+      "title": "12/512 ГБ, синий",
+      "price": 38000
+    },
+    {
+      "id": 21,
+      "name": "Ninkear Z-Book N15 Plus Игровой ноутбук 15.6 Intel Processor N100 RAM 16 ГБ SSD 1024 ГБ Intel UHD Graphics Windows Pro",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7062932305.jpg",
+      "title": "черный матовый, Русская раскладка",
+      "price": 33000
+    },
+    {
+      "id": 22,
+      "name": "notebook.edge Для игр, работы и учебы RAM 32GB / SSD M.2 512GB / Русская клавиатура / Windows 10 PRO Ноутбук, Intel N95, RAM 32 ГБ, SSD 512 ГБ, Intel UHD",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7208782974.jpg",
+      "title": "Graphics, Windows Pro, серебристый, Русская раскладка",
+      "price": 34000
+    },
+    {
+      "id": 23,
+      "name": "ASUS TUF Gaming F15 Игровой ноутбук 15.6, Intel Core i5-12500H, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб), Без системы, (90NR0GW1-M00T60),",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7063353439.jpg",
+      "title": " серый, Русская раскладка",
+      "price": 58000
+    },
+    {
+      "id": 24,
+      "name": "Apple MacBook Air Ноутбук 13.6, Apple M3 (8 CPU, 8 GPU), RAM 8 ГБ, SSD 256 ГБ, Apple M3 GPU (8-core), MacOS, (MRXN3RU/A),",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7114953030.jpg",
+      "title": "12/512 ГБ, синий",
+      "price": 38000
+    },
+    {
+      "id": 25,
+      "name": "Apple MacBook Air Ноутбук 13.6, Apple M3 (8 CPU, 8 GPU), RAM 8 ГБ, SSD 256 ГБ, Apple M3 GPU (8-core), MacOS, (MRXN3RU/A), ",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7184522994.jpg",
+      "title": "серый, Русская раскладка",
+      "price": 95000
+    },
+    {
+      "id": 26,
+      "name": "Умные часы Apple Watch SE",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-h/wc1000/7176820001.jpg",
+      "title": "GPS 40mm Midnight Aluminium Case with Midnight Sport Band - M/L (2023)",
+      "price": 21000
+    },
+    {
+      "id": 27,
+      "name": "Умные часы Apple Watch Series 9 ",
+      "img": "https://ir.ozone.ru/s3/multimedia-c/wc1000/6771633516.jpg",
+      "title": "GPS 45mm Pink Aluminium Case with Light Pink Sport Band - S/M",
+      "price": 32000
+    },
+    {
+      "id": 28,
+      "name": "Наушники Apple Airpods 4",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-h/wc1000/7126351601.jpg",
+      "title": "О товаре Перейти к описанию Тип Наушники Наличие микрофона Да Конструкция наушников Вкладыши Макс. частота, Гц20000 Тип беспроводной связиBluetooth",
+      "price": 13000
+    },
+    {
+      "id": 29,
+      "name": "AirPods Max Space Gray (MGYH3AM/A)",
+      "img": "https://ir.ozone.ru/s3/multimedia-v/wc1000/6052473703.jpg",
+      "title": "Наушники, с микрофоном, накладные, с активным шумоподавлением, время работы в режиме разговора — 20 часов.",
+      "price": 43000
+    },
+    {
+      "id": 30,
+      "name": "Гарнитура проводная Apple EarPods, 3.5 мм с микрофоном, белый (MNHF2ZM/A)",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7116310903.jpg",
+      "title": "Наушники, с микрофоном, вкладыши, с пассивным шумоподавлением, минимальная частота — 20 Гц.",
+      "price": 1500
+    }
+  ],
+  "Home": [
+    {
+      "id": 91,
+      "name": "Ваза Pasabahce",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7060180492.jpg",
+      "title": "Flora, 26 см, cтекло, 1 шт",
+      "price": 1990
+    },
+    {
+      "id": 92,
+      "name": "Электрическая аромалампа,",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7065311124.jpg",
+      "title": "ароматизатор для дома",
+      "price": 2990
+    },
+    {
+      "id": 93,
+      "name": "Шкатулка-сундук",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-m/wc1000/7081129498.jpg",
+      "title": "Универсальная, 1 шт",
+      "price": 4220
+    },
+    {
+      "id": 94,
+      "name": "Осьминожка перевертыш",
+      "img": "https://ir.ozone.ru/s3/multimedia-p/wc1000/6642679417.jpg",
+      "title": "двусторонняя мягкая игрушка антистресс цвет синий-желтый / осминог вывернушка",
+      "price": 990
+    },
+    {
+      "id": 95,
+      "name": "робот мойщик окон",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7106924302.jpg",
+      "title": "Может разбрызгивать воду,Дистанционное управление,Автоматическое планирование маршрута,робот для мойки окон",
+      "price": 5990
+    },
+    {
+      "id": 96,
+      "name": "Оригинальная электрическая зубная щетка Oral-B Pro Series 3",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7125100297.jpg",
+      "title": "набор из 2 штук, с Датчиком Давления на десны, Черная и Белая",
+      "price": 6100
+    },
+    {
+      "id": 97,
+      "name": "Сушилка для обуви",
+      "img": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6418494063.jpg",
+      "title": "Ультрафиолетовая. От грибка и запаха в обуви. Антибактериальная, электрическая сушка для кроссовок и ботинок. Тимсон 2416",
+      "price": 1220
+    },
+    {
+      "id": 98,
+      "name": "Швабра с отжимом и ведром ForHome 15 л большое",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7048038820.jpg",
+      "title": "Швабра с отжимом и ведром ForHome 15 л большое  ",
+      "price": 2300
+    },
+    {
+      "id": 99,
+      "name": "Автоматическая машина для приготовления детской молочной смеси",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/6953065922.jpg",
+      "title": "Burabi Smart Formula Milk Maker O5",
+      "price": 25000
+    },
+    {
+      "id": 100,
+      "name": "OKAMI робот-пылесос со станцией самоочистки R127",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7179020463.jpg",
+      "title": "OKAMI робот-пылесос со станцией самоочистки R127",
+      "price": 41220
+    },
+    {
+      "id": 102,
+      "name": "4 в 1 Mоющий Пылесос Вертикальный KaringBee M5, 25000 Па",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-u/wc1000/7141739718.jpg",
+      "title": "Защита от спутывания волос",
+      "price": 28300
+    },
+    {
+      "id": 103,
+      "name": "Сушилка для обуви",
+      "img": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6418494063.jpg",
+      "title": "Ультрафиолетовая. От грибка и запаха в обуви. Антибактериальная, электрическая сушка для кроссовок и ботинок. Тимсон 2416",
+      "price": 1220
+    },
+    {
+      "id": 104,
+      "name": "Профессиональный фен-стайлер с насадками",
+      "img": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6819883924.jpg",
+      "title": "REMEZ Model E RMB-703",
+      "price": 24100
+    },
+    {
+      "id": 105,
+      "name": "Морозильная камера 3 корзины CENTEK CT-1795 на колесиках, 2в1 Ларь ",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-t/wc1000/7045712525.jpg",
+      "title": "Холодильник, удобный горизонтальный морозильник, полная гарантия, белый, 290л",
+      "price": 24220
+    },
+    {
+      "id": 106,
+      "name": "Камин электрический напольный ELEKAM NEO Pulsar 38 с очагом и порталом",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7134876852.jpg",
+      "title": "с пультом, обогревом и имитацией огня (Электрокамин)",
+      "price": 38000
+    }
+  ],
+  "All": [
+    {
+      "id": 71,
+      "name": "Рубашка E. Clothes",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7106157132.jpg",
+      "title": "Материал Хлопок Состав материала Хлопок - 100% Коллекция Базовая коллекция Стиль Пляжный",
+      "price": 3000
+    },
+    {
+      "id": 72,
+      "name": "Рубашка KOSTTER",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/6928357300.jpg",
+      "title": "Материал Хлопок Состав материала Хлопок - 95%, лайкра - 5% Коллекция Базовая коллекция Рост 170-176 Стиль Офисный/школьный",
+      "price": 3300
+    },
+    {
+      "id": 73,
+      "name": "Кроссовки Nike Voodoo",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7068738889.jpg",
+      "title": "Серия в одежде и обуви Voodoo Материал Текстиль Материал стельки Текстиль Материал подошвы обуви Вулканизированная резинаПолнота Fй",
+      "price": 19000
+    },
+    {
+      "id": 74,
+      "name": "Кроссовки Nike Air Force 1",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-5/wc1000/7117141577.jpg",
+      "title": "Серия в одежде и обуви Air Force 1 Материал стельки Полиэстер Материал подошвы обуви EVA Спортивное назначение Альпинизм, Бег Сезон На любой сезон",
+      "price": 16000
+    },
+    {
+      "id": 75,
+      "name": "Кроссовки Nike",
+      "img": "https://ir.ozone.ru/s3/multimedia-f/wc1000/6474629307.jpg",
+      "title": "Материал Breathable Материал стельки Текстиль Материал подошвы обуви Резина Спортивное назначение Баскетбол, Волейбол, Бег Сезон На любой сезон",
+      "price": 29000
+    },
+    {
+      "id": 76,
+      "name": "Бомбер NOELE BOUTIQUE",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7130412051.jpg",
+      "title": "Бомбер NOELE BOUTIQUE",
+      "price": 19000
+    },
+    {
+      "id": 77,
+      "name": "Пуховик PUMA Style Hooded Down Jacket",
+      "img": "https://ir.ozone.ru/s3/multimedia-m/wc1000/6782045194.jpg",
+      "title": "Пуховик PUMA Style Hooded Down Jacket",
+      "price": 20000
+    },
+    {
+      "id": 78,
+      "name": "Куртка Nike M Nsw Tf Rpl Legacy Hd Jkt 2",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7094566307.jpg",
+      "title": "Куртка Nike M Nsw Tf Rpl Legacy Hd Jkt 2",
+      "price": 15000
+    },
+    {
+      "id": 79,
+      "name": "Кроссовки Nike",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-5/wc1000/7123378109.jpg",
+      "title": "Материал Breathable Материал стельки Текстиль Материал подошвы обуви Резина Спортивное назначение Баскетбол, Волейбол, Бег Сезон На любой сезон",
+      "price": 29000
+    },
+    {
+      "id": 80,
+      "name": "Легинсы",
+      "img": "https://ir.ozone.ru/s3/multimedia-f/wc1000/6474629307.jpg",
+      "title": "Легинсы",
+      "price": 4000
+    },
+    {
+      "id": 81,
+      "name": "Джемпер Baldinini Trend",
+      "img": "https://ir.ozone.ru/s3/multimedia-k/wc1000/6858284480.jpg",
+      "title": "Джемпер Baldinini Trend",
+      "price": 14000
+    },
+    {
+      "id": 82,
+      "name": "Куртка",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7204914322.jpg",
+      "title": "Куртка",
+      "price": 30000
+    },
+    {
+      "id": 83,
+      "name": "Пуховик",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-s/wc1000/7185966076.jpg",
+      "title": "Пуховик",
+      "price": 29000
+    },
+    {
+      "id": 84,
+      "name": "Юбка-шорты Patrizia Pepe",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-9/wc1000/7156360329.jpg",
+      "title": "Материал Breathable Материал стельки Текстиль Материал подошвы обуви Резина Спортивное назначение Баскетбол, Волейбол, Бег Сезон На любой сезон",
+      "price": 15000
+    },
+    {
+      "id": 86,
+      "name": "Кроссовки Nike Осень-зима",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7208508438.jpg",
+      "title": "Кроссовки Nike Осень-зима",
+      "price": 4500
+    },
+    {
+      "id": 87,
+      "name": "Кроссовки Nike Nike",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7200840323.jpg",
+      "title": "Кроссовки Nike Nike",
+      "price": 29000
+    },
+    {
+      "id": 88,
+      "name": "Кроссовки Nike",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-7/wc1000/7211469247.jpg",
+      "title": "Кроссовки Nike",
+      "price": 2200
+    },
+    {
+      "id": 89,
+      "name": "Кроссовки Travis Scott x Air Jordan",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7199214378.jpg",
+      "title": "Кроссовки Travis Scott x Air Jordan",
+      "price": 6000
+    },
+    {
+      "id": 90,
+      "name": "Кроссовки Nike Хэллоуин",
+      "img": "https://ir.ozone.ru/s3/multimedia-n/wc1000/6892628891.jpg",
+      "title": "Кроссовки Nike Хэллоуин",
+      "price": 3400
+    },
+    {
+      "id": 91,
+      "name": "Ваза Pasabahce",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7060180492.jpg",
+      "title": "Flora, 26 см, cтекло, 1 шт",
+      "price": 1990
+    },
+    {
+      "id": 92,
+      "name": "Электрическая аромалампа,",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7065311124.jpg",
+      "title": "ароматизатор для дома",
+      "price": 2990
+    },
+    {
+      "id": 93,
+      "name": "Шкатулка-сундук",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-m/wc1000/7081129498.jpg",
+      "title": "Универсальная, 1 шт",
+      "price": 4220
+    },
+    {
+      "id": 94,
+      "name": "Осьминожка перевертыш",
+      "img": "https://ir.ozone.ru/s3/multimedia-p/wc1000/6642679417.jpg",
+      "title": "двусторонняя мягкая игрушка антистресс цвет синий-желтый / осминог вывернушка",
+      "price": 990
+    },
+    {
+      "id": 95,
+      "name": "робот мойщик окон",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7106924302.jpg",
+      "title": "Может разбрызгивать воду,Дистанционное управление,Автоматическое планирование маршрута,робот для мойки окон",
+      "price": 5990
+    },
+    {
+      "id": 96,
+      "name": "Оригинальная электрическая зубная щетка Oral-B Pro Series 3",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7125100297.jpg",
+      "title": "набор из 2 штук, с Датчиком Давления на десны, Черная и Белая",
+      "price": 6100
+    },
+    {
+      "id": 97,
+      "name": "Сушилка для обуви",
+      "img": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6418494063.jpg",
+      "title": "Ультрафиолетовая. От грибка и запаха в обуви. Антибактериальная, электрическая сушка для кроссовок и ботинок. Тимсон 2416",
+      "price": 1220
+    },
+    {
+      "id": 98,
+      "name": "Швабра с отжимом и ведром ForHome 15 л большое",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7048038820.jpg",
+      "title": "Швабра с отжимом и ведром ForHome 15 л большое  ",
+      "price": 2300
+    },
+    {
+      "id": 99,
+      "name": "Автоматическая машина для приготовления детской молочной смеси",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/6953065922.jpg",
+      "title": "Burabi Smart Formula Milk Maker O5",
+      "price": 25000
+    },
+    {
+      "id": 100,
+      "name": "OKAMI робот-пылесос со станцией самоочистки R127",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7179020463.jpg",
+      "title": "OKAMI робот-пылесос со станцией самоочистки R127",
+      "price": 41220
+    },
+    {
+      "id": 102,
+      "name": "4 в 1 Mоющий Пылесос Вертикальный KaringBee M5, 25000 Па",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-u/wc1000/7141739718.jpg",
+      "title": "Защита от спутывания волос",
+      "price": 28300
+    },
+    {
+      "id": 103,
+      "name": "Сушилка для обуви",
+      "img": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6418494063.jpg",
+      "title": "Ультрафиолетовая. От грибка и запаха в обуви. Антибактериальная, электрическая сушка для кроссовок и ботинок. Тимсон 2416",
+      "price": 1220
+    },
+    {
+      "id": 104,
+      "name": "Профессиональный фен-стайлер с насадками",
+      "img": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6819883924.jpg",
+      "title": "REMEZ Model E RMB-703",
+      "price": 24100
+    },
+    {
+      "id": 105,
+      "name": "Морозильная камера 3 корзины CENTEK CT-1795 на колесиках, 2в1 Ларь ",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-t/wc1000/7045712525.jpg",
+      "title": "Холодильник, удобный горизонтальный морозильник, полная гарантия, белый, 290л",
+      "price": 24220
+    },
+    {
+      "id": 106,
+      "name": "Камин электрический напольный ELEKAM NEO Pulsar 38 с очагом и порталом",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7134876852.jpg",
+      "title": "с пультом, обогревом и имитацией огня (Электрокамин)",
+      "price": 38000
+    },
+    {
+      "id": 1,
+      "name": "Apple Смартфон iPhone 15",
+      "img": "https://ir.ozone.ru/s3/video-36/01HS11MRAWAD4WTXF3XWGV15F1/cover/wc1000/cover.jpg",
+      "title": "Dual SIM 6/128 ГБ, желтый",
+      "price": 73500
+    },
+    {
+      "id": 2,
+      "name": "Apple Смартфон iPhone 15 pro",
+      "img": "https://ir.ozone.ru/s3/multimedia-u/wc1000/6877397322.jpg",
+      "title": "Dual SIM 6/256 ГБ, синий",
+      "price": 81526
+    },
+    {
+      "id": 3,
+      "name": "Apple Смартфон iPhone 13",
+      "img": "https://ir.ozone.ru/s3/multimedia-e/wc1000/6103351550.jpg",
+      "title": "4/128 ГБ, белый",
+      "price": 58005
+    },
+    {
+      "id": 4,
+      "name": " Samsung Смартфон Galaxy S24 Ultra",
+      "img": "https://ir.ozone.ru/s3/multimedia-5/wc1000/6903721625.jpg",
+      "title": "12/512 ГБ, черный",
+      "price": 106996
+    },
+    {
+      "id": 5,
+      "name": "Galaxy S24",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/6922372858.jpg",
+      "title": "8/128 ГБ, серый",
+      "price": 64000
+    },
+    {
+      "id": 6,
+      "name": "Apple Смартфон iPhone 12",
+      "img": "https://ir.ozone.ru/s3/multimedia-5/wc1000/6477834233.jpg",
+      "title": "4/256 ГБ, черный",
+      "price": 32000
+    },
+    {
+      "id": 7,
+      "name": "Apple Смартфон iPhone 11",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7134623686.jpg",
+      "title": "Global 4/64 ГБ, фиолетовый",
+      "price": 22000
+    },
+    {
+      "id": 8,
+      "name": "Apple Смартфон iPhone 13",
+      "img": "https://ir.ozone.ru/s3/multimedia-t/wc1000/6347880593.jpg",
+      "title": "4/128 ГБ, синий",
+      "price": 53500
+    },
+    {
+      "id": 9,
+      "name": "Xiaomi Смартфон Redmi A3 Global",
+      "img": "https://ir.ozone.ru/s3/video-37/01HS11F5068JB2XHBKNAV1VEEF/cover/wc1000/cover.jpg",
+      "title": "4/128 ГБ, голубой",
+      "price": 5334
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi Смартфон Redmi 14C",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-t/wc1000/7159725305.jpg",
+      "title": "8/256 ГБ, черный",
+      "price": 9300
+    },
+    {
+      "id": 11,
+      "name": "Xiaomi Смартфон Redmi A3 Global 4",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/6926404896.jpg",
+      "title": "4/128 ГБ, черный",
+      "price": 5745
+    },
+    {
+      "id": 12,
+      "name": "Xiaomi Смартфон Redmi Note 13 ",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7192127266.jpg",
+      "title": " + Наушники Redmi Buds 4 Active Black 6/128 ГБ, черный",
+      "price": 11000
+    },
+    {
+      "id": 13,
+      "name": "Poco Смартфон POCO C61",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-x/wc1000/7192139061.jpg",
+      "title": "4/128 ГБ, черный",
+      "price": 6800
+    },
+    {
+      "id": 14,
+      "name": "Poco Смартфон C75",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7175023876.jpg",
+      "title": "8/256 ГБ, золотой",
+      "price": 10500
+    },
+    {
+      "id": 15,
+      "name": "Poco Смартфон F6 pro",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7052279340.jpg",
+      "title": "12/512 ГБ, белый",
+      "price": 40000
+    },
+    {
+      "id": 16,
+      "name": "Poco Смартфон POCO",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7160253484.jpg",
+      "title": "C61 3/64 ГБ, зеленый",
+      "price": 4500
+    },
+    {
+      "id": 17,
+      "name": "realme Смартфон realme 13+",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7154103807.jpg",
+      "title": "Ростест (EAC) 8/256 ГБ, бронза",
+      "price": 18000
+    },
+    {
+      "id": 18,
+      "name": "realme Смартфон 12",
+      "img": "https://ir.ozone.ru/s3/video-53/01J5ZED16KEPAG7VTDGVN7F9Y6/cover/wc1000/cover.jpg",
+      "title": "Ростест (EAC) 8/256 ГБ, зеленый",
+      "price": 13500
+    },
+    {
+      "id": 19,
+      "name": "realme Смартфон GT 6T",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7181709084.jpg",
+      "title": "12/256GB Razor Green 12/256 ГБ, зеленый",
+      "price": 39000
+    },
+    {
+      "id": 20,
+      "name": "realme Смартфон 12 Pro+",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7184522994.jpg",
+      "title": "12/512 ГБ, синий",
+      "price": 38000
+    },
+    {
+      "id": 21,
+      "name": "Ninkear Z-Book N15 Plus Игровой ноутбук 15.6 Intel Processor N100 RAM 16 ГБ SSD 1024 ГБ Intel UHD Graphics Windows Pro",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7062932305.jpg",
+      "title": "черный матовый, Русская раскладка",
+      "price": 33000
+    },
+    {
+      "id": 22,
+      "name": "notebook.edge Для игр, работы и учебы RAM 32GB / SSD M.2 512GB / Русская клавиатура / Windows 10 PRO Ноутбук, Intel N95, RAM 32 ГБ, SSD 512 ГБ, Intel UHD",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7208782974.jpg",
+      "title": "Graphics, Windows Pro, серебристый, Русская раскладка",
+      "price": 34000
+    },
+    {
+      "id": 23,
+      "name": "ASUS TUF Gaming F15 Игровой ноутбук 15.6, Intel Core i5-12500H, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб), Без системы, (90NR0GW1-M00T60),",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7063353439.jpg",
+      "title": " серый, Русская раскладка",
+      "price": 58000
+    },
+    {
+      "id": 24,
+      "name": "Apple MacBook Air Ноутбук 13.6, Apple M3 (8 CPU, 8 GPU), RAM 8 ГБ, SSD 256 ГБ, Apple M3 GPU (8-core), MacOS, (MRXN3RU/A),",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7114953030.jpg",
+      "title": "12/512 ГБ, синий",
+      "price": 38000
+    },
+    {
+      "id": 25,
+      "name": "Apple MacBook Air Ноутбук 13.6, Apple M3 (8 CPU, 8 GPU), RAM 8 ГБ, SSD 256 ГБ, Apple M3 GPU (8-core), MacOS, (MRXN3RU/A), ",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7184522994.jpg",
+      "title": "серый, Русская раскладка",
+      "price": 95000
+    },
+    {
+      "id": 26,
+      "name": "Умные часы Apple Watch SE",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-h/wc1000/7176820001.jpg",
+      "title": "GPS 40mm Midnight Aluminium Case with Midnight Sport Band - M/L (2023)",
+      "price": 21000
+    },
+    {
+      "id": 27,
+      "name": "Умные часы Apple Watch Series 9 ",
+      "img": "https://ir.ozone.ru/s3/multimedia-c/wc1000/6771633516.jpg",
+      "title": "GPS 45mm Pink Aluminium Case with Light Pink Sport Band - S/M",
+      "price": 32000
+    },
+    {
+      "id": 28,
+      "name": "Наушники Apple Airpods 4",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-h/wc1000/7126351601.jpg",
+      "title": "О товаре Перейти к описанию Тип Наушники Наличие микрофона Да Конструкция наушников Вкладыши Макс. частота, Гц20000 Тип беспроводной связиBluetooth",
+      "price": 13000
+    },
+    {
+      "id": 29,
+      "name": "AirPods Max Space Gray (MGYH3AM/A)",
+      "img": "https://ir.ozone.ru/s3/multimedia-v/wc1000/6052473703.jpg",
+      "title": "Наушники, с микрофоном, накладные, с активным шумоподавлением, время работы в режиме разговора — 20 часов.",
+      "price": 43000
+    },
+    {
+      "id": 30,
+      "name": "Гарнитура проводная Apple EarPods, 3.5 мм с микрофоном, белый (MNHF2ZM/A)",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7116310903.jpg",
+      "title": "Наушники, с микрофоном, вкладыши, с пассивным шумоподавлением, минимальная частота — 20 Гц.",
+      "price": 1500
+    },
+    {
+      "id": 33,
+      "name": "Рубашка E. Clothes",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7106157132.jpg",
+      "title": "Материал Хлопок Состав материала Хлопок - 100% Коллекция Базовая коллекция Стиль Пляжный",
+      "price": 3000
+    },
+    {
+      "id": 34,
+      "name": "Рубашка KOSTTER",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/6928357300.jpg",
+      "title": "Материал Хлопок Состав материала Хлопок - 95%, лайкра - 5% Коллекция Базовая коллекция Рост 170-176 Стиль Офисный/школьный",
+      "price": 3300
+    },
+    {
+      "id": 35,
+      "name": "Кроссовки Nike Voodoo",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7068738889.jpg",
+      "title": "Серия в одежде и обуви Voodoo Материал Текстиль Материал стельки Текстиль Материал подошвы обуви Вулканизированная резинаПолнота Fй",
+      "price": 19000
+    },
+    {
+      "id": 36,
+      "name": "Кроссовки Nike Air Force 1",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-5/wc1000/7117141577.jpg",
+      "title": "Серия в одежде и обуви Air Force 1 Материал стельки Полиэстер Материал подошвы обуви EVA Спортивное назначение Альпинизм, Бег Сезон На любой сезон",
+      "price": 16000
+    },
+    {
+      "id": 37,
+      "name": "Кроссовки Nike",
+      "img": "https://ir.ozone.ru/s3/multimedia-f/wc1000/6474629307.jpg",
+      "title": "Материал Breathable Материал стельки Текстиль Материал подошвы обуви Резина Спортивное назначение Баскетбол, Волейбол, Бег Сезон На любой сезон",
+      "price": 29000
+    },
+    {
+      "id": 51,
+      "name": "Бизиборд домик KimToys",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-q/wc1000/7118342198.jpg",
+      "title": "развивающий бизидом для мальчиков и девочек",
+      "price": 4500
+    },
+    {
+      "id": 52,
+      "name": "Боксеры роботы на сенсорном управлении",
+      "img": "https://ir.ozone.ru/s3/multimedia-8/wc1000/6495302084.jpg",
+      "title": "Настольная игра Боксерский матч для мальчиков и девочек Интерактивная игра для детей и взрослых Pelican Happy Toys",
+      "price": 7600
+    },
+    {
+      "id": 53,
+      "name": "Головной убор для взрослых Железного человека 1:1 ",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7025674568.jpg",
+      "title": "Коллекционный носимый световой шлем / COS Jarvis",
+      "price": 54000
+    },
+    {
+      "id": 54,
+      "name": "Головной убор карнавальный",
+      "img": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6609886312.jpg",
+      "title": "Тип Головной убор карнавальный Вид аксессуаров для праздника Тиары и ободки",
+      "price": 11700
+    },
+    {
+      "id": 55,
+      "name": "Светящаяся карнавальная маска",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7040188819.jpg",
+      "title": "киберпанковского робота",
+      "price": 13500
+    },
+    {
+      "id": 56,
+      "name": "Игровой автомат",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7106878179.jpg",
+      "title": "Хватайка с игрушками розовая",
+      "price": 4500
+    },
+    {
+      "id": 57,
+      "name": "Интерактивная игрушка",
+      "img": "https://ir.ozone.ru/s3/multimedia-n/wc1000/6853664507.jpg",
+      "title": "трек с машинками для мальчиков и девочек, гоночный автотрек для развития мелкой моторики, логики и координации",
+      "price": 3500
+    },
+    {
+      "id": 58,
+      "name": "Конструктор LEGO Ninjago",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7054810314.jpg",
+      "title": "Первородный дракон огня, 1716 деталей, возраст от 12 лет, 71822",
+      "price": 14426
+    },
+    {
+      "id": 59,
+      "name": "Кухня детская игровая с водой, светом, звуком и набором посуды ",
+      "img": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6644765164.jpg",
+      "title": " кухня детская деревянная большая в подарок для девочки",
+      "price": 11426
+    },
+    {
+      "id": 60,
+      "name": "Конструктор Эйфелева башня, 10001 деталь",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7120886087.jpg",
+      "title": "совместим с другими брендами, коллекционный набор, большой конструктор",
+      "price": 13000
+    },
+    {
+      "id": 61,
+      "name": "Фигурка коллекционная Hot Toys Spider-Man Integrated Suit -NWH 1:6",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7203037135.jpg",
+      "title": "Фигурка коллекционная Hot Toys Spider-Man Integrated Suit -NWH 1:6",
+      "price": 57000
+    },
+    {
+      "id": 62,
+      "name": "Коляска для кукол люлька с сумкой",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7050813696.jpg",
+      "title": "DeCuevas Toys, высота ручки 81 см, серия Верона",
+      "price": 12026
+    },
+    {
+      "id": 63,
+      "name": "Радиоуправляемый экскаватор Hui Na TOYS 1:14 2.4G - HN1593",
+      "img": "https://ir.ozone.ru/s3/multimedia-a/wc1000/6841932274.jpg",
+      "title": "Радиоуправляемый экскаватор Hui Na TOYS 1:14 2.4G - HN1593",
+      "price": 13226
+    },
+    {
+      "id": 64,
+      "name": "Радиоуправляемая машина краулер Huang Bo 4WD RTR масштаб 1:10",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7112787592.jpg",
+      "title": "2.4G Bronco Yellow - HB-R1001",
+      "price": 20000
+    },
+    {
+      "id": 65,
+      "name": "Железная дорога с электропоездом и аксессуарами",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7185714111.jpg",
+      "title": "деревянный городок Гудок Goodok 1TOY Космопорт, игровой набор, для мальчиков и девочек, 89 деталей",
+      "price": 18000
+    },
+    {
+      "id": 66,
+      "name": "Радиоуправляемый экскаватор белый HUI NA TOYS масштаб 1:14",
+      "img": "https://ir.ozone.ru/s3/multimedia-k/wc1000/6286691384.jpg",
+      "title": "2.4G - HN1594-WHITE",
+      "price": 21054
+    },
+    {
+      "id": 67,
+      "name": "Фигурка коллекционная Hot Toys War Machine ",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7203134278.jpg",
+      "title": "Iron Man 2 1:6",
+      "price": 73654
+    },
+    {
+      "id": 68,
+      "name": "Конструктор Креатор Лайнер Титаник для взрослых",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7150323183.jpg",
+      "title": "(совместим с лего Creator 10294) 7zToys",
+      "price": 12568
+    },
+    {
+      "id": 69,
+      "name": "Конструктор Звездные Войны Сокол Тысячелетия, 8445 деталей",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7151475420.jpg",
+      "title": "(Star Wars, конструктор для ребенка, совместим с другими брендами)",
+      "price": 13386
+    },
+    {
+      "id": 70,
+      "name": "Майлз Моралес фигурка 29 см Человек-Паук",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-p/wc1000/7151392861.jpg",
+      "title": "Spider-Man Miles Morales",
+      "price": 57462
+    },
+    {
+      "id": 31,
+      "name": "Набор для маникюра",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7073887286.jpg",
+      "title": "А также педикюра с лампой и аппаратом",
+      "price": 5000
+    },
+    {
+      "id": 32,
+      "name": "BHAB Slowchaga Essential Cleansing Balm",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7114983930.jpg",
+      "title": "Бихэб Гидрофильный бальзам-щербет с экстрактом гриба чаги, 45мл, Южная Корея",
+      "price": 3000
+    },
+    {
+      "id": 33,
+      "name": "НАСТОЯЩИЙ ДЕТСКИЙ КРЕМ",
+      "img": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6831458247.jpg",
+      "title": "от Аванты, 4 штуки по 46 мл",
+      "price": 500
+    },
+    {
+      "id": 34,
+      "name": "Удобная и жаропрочная стеклянная кастрюля",
+      "img": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6624910514.jpg",
+      "title": "Удобная и жаропрочная стеклянная кастрюля",
+      "price": 3000
+    },
+    {
+      "id": 35,
+      "name": "Крем для депиляции DETVFO",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7021604354.jpg",
+      "title": "Спрей для удаления волос, быстро и безболезненно / Альтернатива: воск для депиляции, шугаринг",
+      "price": 2500
+    },
+    {
+      "id": 36,
+      "name": "EpilProfi Крем воск",
+      "img": "https://ir.ozone.ru/s3/multimedia-9/wc1000/6731582301.jpg",
+      "title": "от трещин для очень сухой кожи с мочевиной, увлажняющий, 100 мл",
+      "price": 2800
+    },
+    {
+      "id": 37,
+      "name": "Крем для век 7DAYS",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7071943848.jpg",
+      "title": "антивозрастной от морщин MY BEAUTY WEEK 20 ML",
+      "price": 500
+    },
+    {
+      "id": 38,
+      "name": "Перкуссионный массажер для тела",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7082516289.jpg",
+      "title": "массажный пистолет Beoka TiPRO Max, 8 насадок, кейс в комплекте",
+      "price": 10500
+    },
+    {
+      "id": 39,
+      "name": "Cosmokey Tricapil 5%, 50 мл",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-7/wc1000/7212827239.jpg",
+      "title": "Лосьон для роста волос и от выпадения с пептидами",
+      "price": 900
+    },
+    {
+      "id": 40,
+      "name": "Gillette Fusion5 ProGlide",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7154330888.jpg",
+      "title": "Мужская Бритва, 5 кассет, с 5 лезвиями, с углеродным покрытием, с технологией FlexBall, с триммером",
+      "price": 1500
+    },
+    {
+      "id": 41,
+      "name": "Большой набор для татуировок с беспроводной машинкой",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7189330916.jpg",
+      "title": "Большой набор для татуировок с беспроводной машинкой",
+      "price": 5000
+    },
+    {
+      "id": 42,
+      "name": "Пилка для пяток мощная",
+      "img": "https://ir.ozone.ru/s3/multimedia-j/wc1000/6886786123.jpg",
+      "title": " 3-мя насадками, Аппарат для педикюра, Пемза для ног",
+      "price": 1500
+    },
+    {
+      "id": 43,
+      "name": "Дарсонваль аппарат",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-t/wc1000/7190099921.jpg",
+      "title": "массажный пистолет Beoka TiPRO Max, 8 насадок, кейс в комплекте",
+      "price": 1600
+    },
+    {
+      "id": 44,
+      "name": "Iluminage Домашний безлимитный ",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7127727054.jpg",
+      "title": "технологией элос и функцией омоложения Precise Touch Pro",
+      "price": 19500
+    },
+    {
+      "id": 45,
+      "name": "Фотоэпилятор лазерный BAUM ZINDECH S700 домашний",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7038450499.jpg",
+      "title": "массажный пистолет Beoka TiPRO Max, 8 насадок, кейс в комплекте",
+      "price": 13500
+    },
+    {
+      "id": 46,
+      "name": "Estée Lauder Мультифункциональная восстанавливающая сыворотка",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7183457604.jpg",
+      "title": "Advanced Night Repair Synchronized Multi-Recovery Complex, 50 мл",
+      "price": 7200
+    },
+    {
+      "id": 47,
+      "name": "SmoothSkin Домашний фотоэпилятор IPL",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7127736139.jpg",
+      "title": "с насадкой для малых зон Pure Mini/ безлимитный",
+      "price": 25000
+    },
+    {
+      "id": 48,
+      "name": "Массажный матрас ",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7149321938.jpg",
+      "title": "массажер для тела",
+      "price": 7700
+    },
+    {
+      "id": 49,
+      "name": "Массажер массажная накидка Шиацу для всего тела",
+      "img": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6895182107.jpg",
+      "title": "вибромассажер с подогревом для тела OKDOC",
+      "price": 6300
+    },
+    {
+      "id": 50,
+      "name": "MYTREX, Аппарат для лифтинга лица",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7011168672.jpg",
+      "title": "тела и ухода за волосами PROVE",
+      "price": 50000
+    }
+  ],
+  "orders": [
+  
+  ]
+}
